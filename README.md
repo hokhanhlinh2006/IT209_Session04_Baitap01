@@ -6,6 +6,3 @@
 - Cấu hình email: `git config --local user.email "hokhanhlinh2006@gmail.com"`
 - Add file: `git add README.md`
 - Commit: `git commit -m "Khoi tao bai tap 1 va cau hinh local"`
-
-## 2. Kết quả kiểm tra:
-(Đã đính kèm ảnh chụp màn hình trong bài nộp)
